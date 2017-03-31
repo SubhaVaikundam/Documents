@@ -1,0 +1,5 @@
+http://stytex.de/blog/2016/01/18/spring-cloud-sidecar-applications/
+
+http://tryshoppe.com/docs
+
+https://github.com/tryshoppe/shoppe
