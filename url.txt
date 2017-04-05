@@ -3,3 +3,7 @@ http://stytex.de/blog/2016/01/18/spring-cloud-sidecar-applications/
 http://tryshoppe.com/docs
 
 https://github.com/tryshoppe/shoppe
+
+https://gist.github.com/jamesjefferies/3369575
+
+http://mensfeld.pl/2012/10/using-mongodb-to-store-and-retrieve-csv-files-content-in-ruby/
