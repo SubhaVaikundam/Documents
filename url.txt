@@ -7,3 +7,7 @@ https://github.com/tryshoppe/shoppe
 https://gist.github.com/jamesjefferies/3369575
 
 http://mensfeld.pl/2012/10/using-mongodb-to-store-and-retrieve-csv-files-content-in-ruby/
+
+https://ruby-doc.org/stdlib-2.2.3/libdoc/csv/rdoc/Object.html
+
+https://ruby-doc.org/downloads/
