@@ -126,5 +126,5 @@ https://exampledriven.wordpress.com/2016/07/06/spring-cloud-zuul-example/
 
 http://ryanjbaxter.com/2015/09/14/building-cloud-native-apps-with-spring-part-1/
 
-
+http://programmersdiary.com/java/spring-boot-angularjs-mongodb-rest-api-tutorial/
 
