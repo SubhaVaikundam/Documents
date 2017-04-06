@@ -115,4 +115,16 @@ http://blog.cloud66.com/deploying-rest-apis-to-docker-using-ruby-and-sinatra/
 https://gist.github.com/jamesjefferies/3369575
 
 http://mensfeld.pl/2012/10/using-mongodb-to-store-and-retrieve-csv-files-content-in-ruby/
+http://www.vogella.com/tutorials/ApacheMaven/article.html
+
+
+https://github.com/eugenp/tutorials
+
+http://www.baeldung.com/spring-rest-with-zuul-proxy
+
+https://exampledriven.wordpress.com/2016/07/06/spring-cloud-zuul-example/
+
+http://ryanjbaxter.com/2015/09/14/building-cloud-native-apps-with-spring-part-1/
+
+
 
