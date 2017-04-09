@@ -131,3 +131,5 @@ http://programmersdiary.com/java/spring-boot-angularjs-mongodb-rest-api-tutorial
 http://rubylearning.com/satishtalim/tutorial.html
 
 http://stytex.de/blog/2016/01/18/spring-cloud-sidecar-applications/
+
+http://iridakos.com/2013/11/24/saying-hello-world-with-ruby-on-rails.html
