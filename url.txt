@@ -113,23 +113,19 @@ http://blog.cloud66.com/deploying-rest-apis-to-docker-using-ruby-and-sinatra/
 
 
 https://gist.github.com/jamesjefferies/3369575
-
 http://mensfeld.pl/2012/10/using-mongodb-to-store-and-retrieve-csv-files-content-in-ruby/
 http://www.vogella.com/tutorials/ApacheMaven/article.html
-
-
 https://github.com/eugenp/tutorials
-
 http://www.baeldung.com/spring-rest-with-zuul-proxy
-
 https://exampledriven.wordpress.com/2016/07/06/spring-cloud-zuul-example/
-
 http://ryanjbaxter.com/2015/09/14/building-cloud-native-apps-with-spring-part-1/
-
 http://programmersdiary.com/java/spring-boot-angularjs-mongodb-rest-api-tutorial/
-
 http://rubylearning.com/satishtalim/tutorial.html
-
 http://stytex.de/blog/2016/01/18/spring-cloud-sidecar-applications/
-
 http://iridakos.com/2013/11/24/saying-hello-world-with-ruby-on-rails.html
+http://www.theodinproject.com/courses/ruby-on-rails
+https://github.com/spring-cloud-samples/sample-zuul-filters
+https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes/
+https://developers.redhat.com/blog/tag/kubernetes/
+
+
