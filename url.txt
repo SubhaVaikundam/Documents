@@ -142,3 +142,5 @@ http://www.codingthearchitecture.com/2014/11/19/what_is_a_monolith.html
 https://en.wikipedia.org/wiki/Monolithic_application
 
 https://dzone.com/articles/what-monolith-monoliths-vs
+
+http://eventuate.io/exampleapps.html
