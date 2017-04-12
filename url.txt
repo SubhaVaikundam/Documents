@@ -128,4 +128,8 @@ https://github.com/spring-cloud-samples/sample-zuul-filters
 https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes/
 https://developers.redhat.com/blog/tag/kubernetes/
 
+http://blog.christianposta.com/microservices/spring-boot-microservice-development-on-kubernetes-the-easy-way/
 
+https://github.com/kubernetes/kubernetes/tree/e3fa83177c4d2d1331d41e7ce70b1f145475587a/examples/guestbook#guestbook-example
+
+https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
