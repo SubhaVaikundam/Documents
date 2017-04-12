@@ -135,3 +135,10 @@ https://github.com/kubernetes/kubernetes/tree/e3fa83177c4d2d1331d41e7ce70b1f1454
 https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
 http://www.xoriant.com/blog/kubernetes/introduction-kubernetes.html
 https://github.com/kubernetes/kubernetes/tree/e3fa83177c4d2d1331d41e7ce70b1f145475587a/examples/guestbook#guestbook-example
+http://microservices.io/patterns/monolithic.html
+
+http://www.codingthearchitecture.com/2014/11/19/what_is_a_monolith.html
+
+https://en.wikipedia.org/wiki/Monolithic_application
+
+https://dzone.com/articles/what-monolith-monoliths-vs
