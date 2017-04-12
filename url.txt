@@ -133,3 +133,5 @@ http://blog.christianposta.com/microservices/spring-boot-microservice-developmen
 https://github.com/kubernetes/kubernetes/tree/e3fa83177c4d2d1331d41e7ce70b1f145475587a/examples/guestbook#guestbook-example
 
 https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+http://www.xoriant.com/blog/kubernetes/introduction-kubernetes.html
+https://github.com/kubernetes/kubernetes/tree/e3fa83177c4d2d1331d41e7ce70b1f145475587a/examples/guestbook#guestbook-example
