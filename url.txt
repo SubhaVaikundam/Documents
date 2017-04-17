@@ -144,3 +144,10 @@ https://en.wikipedia.org/wiki/Monolithic_application
 https://dzone.com/articles/what-monolith-monoliths-vs
 
 http://eventuate.io/exampleapps.html
+
+https://stormpath.com/blog/5-practical-tips-for-building-your-spring-boot-api
+
+https://stormpath.com/blog/spring-boot-default-starters
+
+https://stormpath.com/blog/tutorial-crud-spring-boot-20-minutes
+
