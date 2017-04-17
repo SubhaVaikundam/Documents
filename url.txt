@@ -151,3 +151,4 @@ https://stormpath.com/blog/spring-boot-default-starters
 
 https://stormpath.com/blog/tutorial-crud-spring-boot-20-minutes
 
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
