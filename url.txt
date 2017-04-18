@@ -152,3 +152,21 @@ https://stormpath.com/blog/spring-boot-default-starters
 https://stormpath.com/blog/tutorial-crud-spring-boot-20-minutes
 
 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+
+**********************************************************************************
+
+https://www.udemy.com/restful-web-service-with-spring-boot/learn/v4/t/lecture/3317354?start=0
+
+http://websystique.com/spring-boot/spring-boot-rest-api-example/
+
+http://www.adeveloperdiary.com/java/spring-boot/create-restful-webservices-using-spring-boot/
+
+http://docs.oracle.com/javaee/6/tutorial/doc/giqsx.html
+
+http://www.xfront.com/REST-Web-Services.html
+
+https://www.petefreitag.com/item/653.cfm
+
+https://www.petefreitag.com/item/431.cfm
+
+https://dzone.com/articles/web-services-architecture
