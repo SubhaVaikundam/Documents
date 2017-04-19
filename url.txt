@@ -170,3 +170,5 @@ https://www.petefreitag.com/item/653.cfm
 https://www.petefreitag.com/item/431.cfm
 
 https://dzone.com/articles/web-services-architecture
+
+https://examples.javacodegeeks.com/enterprise-java/apache-solr/solr-dataimporthandler-example/
