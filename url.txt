@@ -174,3 +174,4 @@ https://dzone.com/articles/web-services-architecture
 https://examples.javacodegeeks.com/enterprise-java/apache-solr/solr-dataimporthandler-example/
 
 https://lucene.apache.org/solr/quickstart.html
+https://github.com/codependent/spring-cloud-sidecar-test
