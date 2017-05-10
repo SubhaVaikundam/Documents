@@ -175,5 +175,9 @@ https://examples.javacodegeeks.com/enterprise-java/apache-solr/solr-dataimportha
 
 https://lucene.apache.org/solr/quickstart.html
 https://github.com/codependent/spring-cloud-sidecar-test
+-- SonarQube
+http://www.sonarlint.org/eclipse/index.html#Connected
 
-http://www.sonarlint.org/eclipse/index.html#Connecte
+https://blog.sonarsource.com/using-quality-profiles-in-sonar/
+
+https://docs.sonarqube.org/display/SONAR/Quality+Profiles
