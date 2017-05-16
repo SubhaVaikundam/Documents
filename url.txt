@@ -239,3 +239,6 @@ https://docs.mongodb.com/spark-connector/current/java-api/
 https://docs.mongodb.com/spark-connector/current/
 
 http://www.spenceruresk.com/2016/06/combining-data-from-multiple-sources-with-spark-and-zeppelin/
+https://www.cs.helsinki.fi/u/wikla/OTS/Sisalto/examples/html/ch02.html#sec2
+
+http://www.scala-sbt.org/0.13/docs/Hello.html
