@@ -227,3 +227,15 @@ https://mvnrepository.com/artifact/org.apache.spark
 https://intellipaat.com/tutorial/spark-tutorial/spark-features/
 
 https://drive.google.com/file/d/0B4PlPwU6yGTNT2FBdl9nTGNGOFk/view
+
+http://toodey.com/2015/08/10/hadoop-installation-on-windows-without-cygwin-in-10-mints/
+
+https://www.codeproject.com/Articles/757934/Apache-Hadoop-for-Windows-Platform
+
+https://dzone.com/articles/build-and-install-hadoop-on-windows-with-native-bi
+
+https://docs.mongodb.com/spark-connector/current/java-api/
+
+https://docs.mongodb.com/spark-connector/current/
+
+http://www.spenceruresk.com/2016/06/combining-data-from-multiple-sources-with-spark-and-zeppelin/
