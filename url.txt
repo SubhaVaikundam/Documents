@@ -244,3 +244,19 @@ https://www.cs.helsinki.fi/u/wikla/OTS/Sisalto/examples/html/ch02.html#sec2
 http://www.scala-sbt.org/0.13/docs/Hello.html
 
 https://github.com/databricks/learning-spark/tree/master/src/main/java/com/oreilly/learningsparkexamples/java
+
+
+http://apache-spark-user-list.1001560.n3.nabble.com/about-a-JavaWordCount-example-with-spark-core-2-10-1-0-0-jar-td8133.html
+
+
+https://github.com/databricks/spark-csv
+
+
+https://www.supergloo.com/fieldnotes/spark-sql-csv-examples/
+
+
+https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf
+
+
+
+https://www.cloudera.com/documentation/enterprise/5-6-x/topics/spark_first.html
