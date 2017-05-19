@@ -260,3 +260,11 @@ https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf
 
 
 https://www.cloudera.com/documentation/enterprise/5-6-x/topics/spark_first.html
+
+https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html
+
+http://www.programcreek.com/java-api-examples/index.php?api=org.apache.spark.api.java.JavaSparkContext
+
+
+http://stackoverflow.com/questions/36133710/processing-several-files-in-spark-separately
+https://sdm.lbl.gov/fastbit/data/samples.html
